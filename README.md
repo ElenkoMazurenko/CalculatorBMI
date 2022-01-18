@@ -15,6 +15,6 @@ Obese Class I	30 - 35<br>
 Obese Class II	35 - 40<br>
 Obese Class III	> 40<br>
 
-The test-program is written in IntelliJ IDEA
-You can enter weight and height values in the scanner
+The test-program is written in IntelliJ IDEA<br>
+You can enter weight and height values in the scanner<br>
 <img width="286" alt="Screenshot 2022-01-18 at 22 30 06" src="https://user-images.githubusercontent.com/97693808/150013758-03d4ad60-6e06-4693-8d99-59d3448bcd97.png">

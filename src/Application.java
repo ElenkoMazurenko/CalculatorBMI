@@ -18,11 +18,14 @@ public class Application {
         double resultBMI = calculateBMI(weight, height);
         System.out.printf("ВАШ индекс массы тела BMI: %.1f \n", resultBMI);
 
+
         TableOfResultBMI bmi = new TableOfResultBMI();
         bmi.tableOfResult(resultBMI);
+        System.out.println("Надо что-то с этим делать");
     }
         public static double calculateBMI ( double weight, double height){
             return weight / Math.pow(height, 2);                            //формула расчета BMI
         }
+
 
 }
